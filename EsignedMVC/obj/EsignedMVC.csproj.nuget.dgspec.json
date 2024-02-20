@@ -4,6 +4,69 @@
     "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/EsignedMVC.csproj": {}
   },
   "projects": {
+    "/Users/jal/Desktop/ projets/EsignedMVC/Esigned.core/Esigned.core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jal/Desktop/ projets/EsignedMVC/Esigned.core/Esigned.core.csproj",
+        "projectName": "Esigned.core",
+        "projectPath": "/Users/jal/Desktop/ projets/EsignedMVC/Esigned.core/Esigned.core.csproj",
+        "packagesPath": "/Users/jal/.nuget/packages/",
+        "outputPath": "/Users/jal/Desktop/ projets/EsignedMVC/Esigned.core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jal/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.27, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.27, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.312/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/EsignedMVC.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -26,7 +89,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "/Users/jal/Desktop/ projets/EsignedMVC/Esigned.core/Esigned.core.csproj": {
+                "projectPath": "/Users/jal/Desktop/ projets/EsignedMVC/Esigned.core/Esigned.core.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -38,6 +105,22 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.27, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.27, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.27, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -1,248 +1,172 @@
 {
   "Files": [
     {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/obj/Debug/net6.0/scopedcss/projectbundle/EsignedMVC.bundle.scp.css",
-      "PackagePath": "staticwebassets/EsignedMVC.bundle.scp.css"
+      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
     },
     {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/css/site.css",
-      "PackagePath": "staticwebassets/css/site.css"
+      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/css/bootstrap.css",
+      "PackagePath": "staticwebassets/css/bootstrap.css"
     },
     {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/favicon.ico",
-      "PackagePath": "staticwebassets/favicon.ico"
+      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/css/responsive.css",
+      "PackagePath": "staticwebassets/css/responsive.css"
     },
     {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/js/site.js",
-      "PackagePath": "staticwebassets/js/site.js"
+      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
     },
     {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/bootstrap/LICENSE",
-      "PackagePath": "staticwebassets/lib/bootstrap"
+      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/css/style.css.map",
+      "PackagePath": "staticwebassets/css/style.css.map"
     },
     {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/css/style.scss",
+      "PackagePath": "staticwebassets/css/style.scss"
     },
     {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/images/arrow-end.png",
+      "PackagePath": "staticwebassets/images/arrow-end.png"
     },
     {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/images/arrow-middle.png",
+      "PackagePath": "staticwebassets/images/arrow-middle.png"
     },
     {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/images/arrow-start.png",
+      "PackagePath": "staticwebassets/images/arrow-start.png"
     },
     {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/images/c-1.png",
+      "PackagePath": "staticwebassets/images/c-1.png"
     },
     {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/images/c-2.png",
+      "PackagePath": "staticwebassets/images/c-2.png"
     },
     {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/images/c-3.png",
+      "PackagePath": "staticwebassets/images/c-3.png"
     },
     {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/images/d-1.png",
+      "PackagePath": "staticwebassets/images/d-1.png"
     },
     {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/images/d-2.png",
+      "PackagePath": "staticwebassets/images/d-2.png"
     },
     {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/images/d-3.png",
+      "PackagePath": "staticwebassets/images/d-3.png"
     },
     {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/images/d-4.png",
+      "PackagePath": "staticwebassets/images/d-4.png"
     },
     {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/images/d-5.png",
+      "PackagePath": "staticwebassets/images/d-5.png"
     },
     {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/images/envelope-white.png",
+      "PackagePath": "staticwebassets/images/envelope-white.png"
     },
     {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/images/fb.png",
+      "PackagePath": "staticwebassets/images/fb.png"
     },
     {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/images/hero-bg.jpg",
+      "PackagePath": "staticwebassets/images/hero-bg.jpg"
     },
     {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/images/insta.png",
+      "PackagePath": "staticwebassets/images/insta.png"
     },
     {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/images/linkedin.png",
+      "PackagePath": "staticwebassets/images/linkedin.png"
     },
     {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/images/location-white.png",
+      "PackagePath": "staticwebassets/images/location-white.png"
     },
     {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/images/location.png",
+      "PackagePath": "staticwebassets/images/location.png"
     },
     {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/images/map-img.png",
+      "PackagePath": "staticwebassets/images/map-img.png"
     },
     {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/images/menu.png",
+      "PackagePath": "staticwebassets/images/menu.png"
     },
     {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/images/next.png",
+      "PackagePath": "staticwebassets/images/next.png"
     },
     {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/images/prev.png",
+      "PackagePath": "staticwebassets/images/prev.png"
     },
     {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/images/quote.png",
+      "PackagePath": "staticwebassets/images/quote.png"
     },
     {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/images/search-icon.png",
+      "PackagePath": "staticwebassets/images/search-icon.png"
     },
     {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/images/target-bg.jpg",
+      "PackagePath": "staticwebassets/images/target-bg.jpg"
     },
     {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/images/telephone-white.png",
+      "PackagePath": "staticwebassets/images/telephone-white.png"
     },
     {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/images/twitter.png",
+      "PackagePath": "staticwebassets/images/twitter.png"
     },
     {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/images/user.png",
+      "PackagePath": "staticwebassets/images/user.png"
     },
     {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/images/w-1.png",
+      "PackagePath": "staticwebassets/images/w-1.png"
     },
     {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/images/w-2.png",
+      "PackagePath": "staticwebassets/images/w-2.png"
     },
     {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/images/w-3.png",
+      "PackagePath": "staticwebassets/images/w-3.png"
     },
     {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/images/w-4.png",
+      "PackagePath": "staticwebassets/images/w-4.png"
     },
     {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/images/who-img.jpg",
+      "PackagePath": "staticwebassets/images/who-img.jpg"
     },
     {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/images/youtube.png",
+      "PackagePath": "staticwebassets/images/youtube.png"
     },
     {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/js/bootstrap.js",
+      "PackagePath": "staticwebassets/js/bootstrap.js"
     },
     {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
-    },
-    {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
-    },
-    {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
-    },
-    {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
-    },
-    {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
-    },
-    {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
-    },
-    {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
-    },
-    {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
-    },
-    {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
-    },
-    {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
-    },
-    {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
-    },
-    {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/jquery-validation/LICENSE.md",
-      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
-    },
-    {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/jquery-validation/dist/additional-methods.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
-    },
-    {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
-    },
-    {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
-    },
-    {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
-    },
-    {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/jquery/LICENSE.txt",
-      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
-    },
-    {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/jquery/dist/jquery.js",
-      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
-    },
-    {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/jquery/dist/jquery.min.js",
-      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
-    },
-    {
-      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/lib/jquery/dist/jquery.min.map",
-      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+      "Id": "/Users/jal/Desktop/ projets/EsignedMVC/EsignedMVC/wwwroot/js/jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets/js/jquery-3.4.1.min.js"
     },
     {
       "Id": "obj/Debug/net6.0/staticwebassets/msbuild.EsignedMVC.Microsoft.AspNetCore.StaticWebAssets.props",

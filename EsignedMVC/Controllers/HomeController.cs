@@ -1,32 +1,23 @@
 ﻿using System.Diagnostics;
+using EsignedMVC.Contexts;
 using Microsoft.AspNetCore.Mvc;
-using EsignedMVC.Models;
+
 
 namespace EsignedMVC.Controllers;
 
 public class HomeController : Controller
 {
-    private readonly ILogger<HomeController> _logger;
+    private readonly EsignedDbContext _esignedDbContext;
 
-    public HomeController(ILogger<HomeController> logger)
+    public HomeController(EsignedDbContext esignedDbContext)
     {
-        _logger = logger;
+        _esignedDbContext = esignedDbContext;
+
     }
-
-    public IActionResult Index()
+    public async  Task<IActionResult> Index()
     {
+        //_esignedDbContext.Positions.ToList();
         return View();
-    }
-
-    public IActionResult Privacy()
-    {
-        return View();
-    }
-
-    [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-    public IActionResult Error()
-    {
-        return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
     }
 }
 
