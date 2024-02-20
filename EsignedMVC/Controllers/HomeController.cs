@@ -1,7 +1,8 @@
 ﻿using System.Diagnostics;
+using Esigned.core.Models;
 using EsignedMVC.Contexts;
 using Microsoft.AspNetCore.Mvc;
-
+using Microsoft.EntityFrameworkCore;
 
 namespace EsignedMVC.Controllers;
 
@@ -16,8 +17,11 @@ public class HomeController : Controller
     }
     public async  Task<IActionResult> Index()
     {
-        //_esignedDbContext.Positions.ToList();
-        return View();
+        IEnumerable<Slider> sliders =
+             await _esignedDbContext.Sliders.Where(x => !x.IsDeleted)
+             .AsNoTracking()
+             .ToListAsync();
+        return View(sliders);
     }
 }
 
